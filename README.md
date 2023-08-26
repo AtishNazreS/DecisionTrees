@@ -1,0 +1,3 @@
+# DecisionTrees
+Decision Trees : A classification algorithm to build a model from the historical data of patients, and their response to different medications using the trained decision tree to predict the class of an unknown patient, or to find a proper drug for a new patient.(Machine learning using Python)
+Developing a machine learning model for drug prescription involves collecting patient data, selecting appropriate features, and training a model based on historical prescribing patterns. This can aid doctors in suggesting personalized treatments, considering patient characteristics and medical history. It's important to ensure data privacy, model interpretability, and continuous monitoring for accuracy and ethical considerations.
